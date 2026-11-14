@@ -4,7 +4,8 @@ import "./globals.css";
 
 export const metadata: Metadata = {
   title: "Murdan AI Studio",
-  description: "Your AI Creative Studio",
+  description:
+    "AI Creative Studio for Image Generation, Video Creation, and AI Assistant.",
 };
 
 export default function RootLayout({
